@@ -1,0 +1,8 @@
+{
+  "name": "Copy of ネタ書き・名人 (Neta-kaki Meijin)",
+  "description": "An AI-powered Manzai comedy script writer and video simulator that captures the style of legendary comedy duos.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
